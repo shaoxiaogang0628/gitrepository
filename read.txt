@@ -1,7 +1,9 @@
 
 i am a git-learn txt
 dd
+look at me
 
+git tarcks changes
 
-
-look at me 
+git test
+ 
