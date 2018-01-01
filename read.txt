@@ -6,4 +6,7 @@ look at me
 git tarcks changes
 
 git test
- 
+
+git newtxt 
+
+git newfile
